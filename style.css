@@ -1,0 +1,42 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+
+h4{
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+#texto{
+    
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+a{
+    
+    font-family:Arial, Helvetica, sans-serif; 
+    margin-left: 85px;
+    
+}
+
+
+
+
+
+.card {
+    width: 400px;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: white;
+    border-radius: 20px;
+    box-shadow: 10px 15px 20px rgba(0, 0, 0, 1);
+}
+
+
